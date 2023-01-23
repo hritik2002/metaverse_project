@@ -21,6 +21,3 @@ Framer Motion - Animation library for React
 
 ## Author
 Hritik Sharma - https://github.com/hritik2002/
-
-## Acknowledgments
-Inspiration - Javascript Mastery on youtube(https://www.youtube.com/@javascriptmastery).
